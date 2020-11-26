@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\bin\Debug\netcoreapp3.1\Passagens-Aereas.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Passagens-Aereas\obj\Debug\netcoreapp3.1\Passagens-Aereas.genruntimeconfig.cache
